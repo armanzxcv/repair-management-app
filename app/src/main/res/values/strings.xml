@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مدیریت تعمیرات</string>
+    <string name="shop_name">ارمان ایسی</string>
+    <string name="home">خانه</string>
+    <string name="search">جستجو</string>
+    <string name="settings">تنظیمات</string>
+    <string name="add_repair">افزودن تعمیر</string>
+    <string name="edit_repair">ویرایش تعمیر</string>
+    <string name="device_code">کد دستگاه</string>
+    <string name="device_model">مدل موبایل</string>
+    <string name="owner_name">نام مالک</string>
+    <string name="owner_phone">شماره تماس</string>
+    <string name="issue">مشکل</string>
+    <string name="status">وضعیت</string>
+    <string name="cost">هزینه</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">لغو</string>
+    <string name="delete">حذف</string>
+    <string name="total_repairs">کل تعمیرات</string>
+    <string name="completed_repairs">تکمیل شده</string>
+</resources>
